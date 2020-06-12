@@ -1,6 +1,6 @@
 SCHOOL MANAGEMENT REST API
 
-heroku link: https://schoolsbackend.herokuapp.com/
+heroku link: https://schools-mgmt.herokuapp.com/
 local: http://localhost:3500
 
 
